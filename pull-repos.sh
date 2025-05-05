@@ -1,4 +1,4 @@
-#!/usr/bin/sh
+#!/bin/bash
 
 # List of repository URLs (replace with your GitHub repo URLs)
 REPOS=(
